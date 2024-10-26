@@ -1,0 +1,18 @@
+Mininet 2.2 stable version install
+Config in virtual orm
+Start the machine
+Login mininet
+Passward mininet
+sudo mn
+(Will show connection establishment) 
+pingall or
+pingh1
+exit
+Now, 
+pwd
+cd pox
+. /pox.py pox.forwarding.hub
+(Shows pox establishment) 
+CTRL + C to stop establishment
+exit
+sudo poweroff
